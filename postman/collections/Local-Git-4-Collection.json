@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "68926825-0de8-474c-a59b-c99f147812bd",
+		"name": "Local-Git-4-Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889210-68926825-0de8-474c-a59b-c99f147812bd"
+	},
+	"item": [],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "e15314df-055e-453d-b208-f380cf69614b",
+				"type": "text/javascript",
+				"exec": [
+					"// Updated From Filesystem"
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "9e1c45ba-85cc-4678-a693-c6fea8845b01",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
